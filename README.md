@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
   <picture>
     <source srcset="./rdk.svg" media="(prefers-color-scheme: dark)">
     <source srcset="./rdkd.svg" media="(prefers-color-scheme: light)">
@@ -16,7 +16,8 @@
   <img src="https://img.shields.io/github/issues-pr/Mayur-Pagote/README_Design_Kit" alt="Pull Requests">
 </div>
   
-</div>
+</div>-->
+
 <div align="center">
   <picture>
     <source srcset="./rdk.svg" media="(prefers-color-scheme: dark)">
